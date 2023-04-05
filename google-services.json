@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "41577106775",
+    "project_id": "pawmeets",
+    "storage_bucket": "pawmeets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41577106775:android:885d62d3ff855a89734212",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41577106775-9418p4dekdo0kjh8dd32nij19thdr4du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4IMSAACjHjs39DIo4-zqUk5r7vukmcdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41577106775-9418p4dekdo0kjh8dd32nij19thdr4du.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41577106775-bn5r985hf366brpc3tko3uruun3advn7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
